@@ -47,7 +47,7 @@ WinUI 2.x ライブラリは UWP SDK と密接に結び付けられており、U
 
 ## <a name="windows-ui-30-library-preview-1"></a>Windows UI 3.0 ライブラリ (Preview 1)
 
-WinUI 3 は WinUI の時期バージョンで、UWP SDK から完全に切り離されたネイティブ Windows 10 UI プラットフォームです。
+WinUI 3 は WinUI の次期バージョンで、UWP SDK から完全に切り離されたネイティブ Windows 10 UI プラットフォームです。
 
 Windows UI 3.0 ライブラリは、UWP SDK から XAML、コンポジション、入力の API を完全に分離することにより、Windows 10 のネイティブ UI プラットフォーム全体を含むように、WinUI のスコープを大幅に拡張できます。
 
