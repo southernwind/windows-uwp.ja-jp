@@ -122,7 +122,7 @@ WinUI 3.0 Preview 1 は、Windows 10 April 2018 Update (バージョン 1803 - �
 - パッケージ化されていないデスクトップ展開はサポートしていません
 - ARM64 はサポートしていません
 
-### <a name="missing-platform-features"></a>ラットフォーム機能が不足しています
+### <a name="missing-platform-features"></a>プラットフォーム機能が不足しています
 
 - Xbox には対応していません
 - HoloLens には対応していません
